@@ -16,4 +16,4 @@ $ git clone https://github.com/reyspeed/attack-spam
 
 $ cd attack-spam
 
-$ python2 att.py
+$ python att.py
