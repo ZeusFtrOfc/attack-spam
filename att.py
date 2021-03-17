@@ -37,7 +37,7 @@ dat = {
 'phone': no,
 }
 for x in range(jml):
-	time.sleep(5)
+	time.sleep(20)
 	sendSms = requests.post("https://cmsapi.mapclub.com/api/signup-otp", headers=ua, data=dat)
 
 	if 'error' in sendSms.text:	
