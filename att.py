@@ -16,10 +16,10 @@ banner = """
 ┈┈╰┓┏━━┓┏╯      \===> [_¤_]
 ┈┈┈╰╯┈┈╰╯
 <×======================================×>
-  |Code by : mrcroot                   |
-  |Github : https://github.com/reyspeed|
+  |Code by : ZeusXz                    |
+  |Github : https://github.com/ZeusFtrOfc|
   |Team : GrayHat Tersakiti Team       |
-  |Gmail : mrcroot46@gmail.com         |
+  |Gmail : ZeusXz771@gmail.com         |
   |Type : www.mapclub.com              |
 <×======================================×>
  """
