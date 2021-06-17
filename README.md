@@ -12,7 +12,7 @@ $ pip2 install requests
 
 $ pip install termcolor
 
-$ git clone https://github.com/reyspeed/attack-spam
+$ git clone https://github.com/ZeusFtrOfc/attack-spam
 
 $ cd attack-spam
 
